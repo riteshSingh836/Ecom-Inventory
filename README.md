@@ -2,7 +2,8 @@
 Designed an API for an ecommerce platform admin to manage product inventory
 
 Install all the necessary packages --
-- use npm i command for all package installing.
+- use "npm i" command for all package installing.
+- Install - express, mongoose, dotenv, mongodb, body-parser.
 
 Run server on localhost using - nodemon server.js
 
