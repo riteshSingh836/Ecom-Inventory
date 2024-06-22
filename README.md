@@ -11,4 +11,4 @@ Test APIs usiing POSTMAN tool. Below are the URL's for all the APIs---
 - Add a product - POST - localhost:5000/products/create 
 - Get all product - GET - localhost:5000/products/
 - Update a product quantity - POST - localhost:5000/products/:id/update_quantity/?number=20  (note: pass number as a query parameter).
-- Delete a product - DELETE - localhost:5000/products/6676946cd5fe49575e98e097
+- Delete a product - DELETE - localhost:5000/products/:id
